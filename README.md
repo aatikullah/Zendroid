@@ -33,14 +33,14 @@ Window size: 700 x 500
 ## How to Run the Project
 
 Make sure you have the following installed:
-- **Visual Studio 2013** (or a version that can open its projects)
+- **Visual Studio 2013**
 - **iGraphics Library** (included in this repository)
 
 Steps:
 - Clone or download this repository.
 - Open Visual Studio 2013.
 - Go to File → Open → Project/Solution.
-- Locate and select `Zendroid.sln` from the cloned repository.
+- Select the .sln file from the cloned repository.
 - Click Build → Build Solution.
 - Run the program by clicking Debug → Start Without Debugging.
 
