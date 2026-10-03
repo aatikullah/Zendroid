@@ -88,7 +88,7 @@ Menus and the pause screen are used with the mouse.
 
 
 ## Youtube Link
-[Zendroid Gameplay Video]([https://www.youtube.com/](https://youtu.be/et_JY0fGsjM?si=XUhrBN8EL4GLD-Fu))
+[Zendroid Gameplay Video](https://youtu.be/et_JY0fGsjM?si=XUhrBN8EL4GLD-Fu)
 
 ## Project Report
 [Project Report: Zendroid](https://drive.google.com/drive/u/1/my-drive)
