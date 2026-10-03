@@ -81,7 +81,7 @@ Menus and the pause screen are used with the mouse.
 ## Screenshots
 
 ### **Menu**
-<img src="ADD_MENU_SCREENSHOT_LINK_HERE" width="300">
+<img src="https://github.com/user-attachments/files/33005755/mainmenu.bmp" width="300">
 
 ### **Gameplay**
 <img src="ADD_GAMEPLAY_SCREENSHOT_LINK_HERE" width="300">
