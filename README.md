@@ -101,6 +101,9 @@ Menus and the pause screen are used with the mouse.
 #### **Level 2 — Fireball-Throwing Dragons**
 <img width="325" height="200" alt="image" src="https://github.com/user-attachments/assets/12496482-1435-4d1d-83ab-a001c8aaf919" />
 
+#### **Level 3 — Sub-level 1, Ember Blocks and Fireball-Throwing Dragons**
+<img width="325" height="200" alt="image" src="https://github.com/user-attachments/assets/2b846d73-7a1c-400f-bf47-61a02e664a04" />
+
 #### **Level 4 — Moving Slabs and the Laser Gun**
 <img width="325" height="200" alt="image" src="https://github.com/user-attachments/assets/f1f2e185-ac2b-47b2-8b72-b7f2821524cb" />
 
@@ -112,9 +115,6 @@ Menus and the pause screen are used with the mouse.
 
 #### **Victory Screen**
 <img width="325" height="200" alt="image" src="https://github.com/user-attachments/assets/83c246c6-9274-4d44-88c6-98fbb6df19e1" />
-
-
-
 
 
 ## Youtube Link
