@@ -86,6 +86,10 @@ Menus and the pause screen are used with the mouse.
 ### **Level 1 — Platforming and Collectibles**
 <img width="325" height="200" alt="image" src="https://github.com/user-attachments/assets/9ecb31d0-c207-4299-9817-599d372a683b" />
 
+### **Level 2 — Fireball-Throwing Dragons**
+<img width="325" height="200" alt="image" src="https://github.com/user-attachments/assets/12496482-1435-4d1d-83ab-a001c8aaf919" />
+
+
 ### **Gameplay**
 <img src="ADD_GAMEPLAY_SCREENSHOT_LINK_HERE" width="300" height="200">
 
