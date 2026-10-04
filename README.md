@@ -84,7 +84,7 @@ Menus and the pause screen are used with the mouse.
 <img src="https://github.com/user-attachments/files/33005755/mainmenu.bmp" width="300" height="200">
 
 ### **Level 1 — Platforming and Collectibles**
-<img width="325" height="250" alt="image" src="https://github.com/user-attachments/assets/9ecb31d0-c207-4299-9817-599d372a683b" />
+<img width="325" height="200" alt="image" src="https://github.com/user-attachments/assets/9ecb31d0-c207-4299-9817-599d372a683b" />
 
 ### **Gameplay**
 <img src="ADD_GAMEPLAY_SCREENSHOT_LINK_HERE" width="300" height="200">
