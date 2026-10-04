@@ -83,15 +83,26 @@ Menus and the pause screen are used with the mouse.
 ### **Menu**
 <img src="https://github.com/user-attachments/files/33005755/mainmenu.bmp" width="300" height="200">
 
-### **Level 1 — Platforming and Collectibles**
+### **Gameplay**
+
+#### **Level 1 — Platforming and Collectibles**
 <img width="325" height="200" alt="image" src="https://github.com/user-attachments/assets/9ecb31d0-c207-4299-9817-599d372a683b" />
 
 ### **Level 2 — Fireball-Throwing Dragons**
 <img width="325" height="200" alt="image" src="https://github.com/user-attachments/assets/12496482-1435-4d1d-83ab-a001c8aaf919" />
 
+### **Level 4 — Moving Slabs and the Laser Gun**
+<img width="325" height="200" alt="image" src="https://github.com/user-attachments/assets/f1f2e185-ac2b-47b2-8b72-b7f2821524cb" />
 
-### **Gameplay**
-<img src="ADD_GAMEPLAY_SCREENSHOT_LINK_HERE" width="300" height="200">
+### **Level 5 — Final Stage — The Boss Dragon**
+<img width="325" height="200" alt="image" src="https://github.com/user-attachments/assets/e5745adf-2d72-4d92-8ebc-a9e4a71c9dd3" />
+
+
+### **Game-Over Screen**
+<img width="734" height="525" alt="image" src="https://github.com/user-attachments/assets/6beaebe8-8286-4cdf-82cf-077cdbbdb7ec" />
+
+
+
 
 
 ## Youtube Link
