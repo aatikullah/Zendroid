@@ -2,8 +2,6 @@
 
 **Zendroid** is a 2D action platformer built with the **iGraphics** library in C/C++. Guide a robot through five levels of platforms, moving slabs and fire-breathing dragons. Collect golden balls to open the portal, fight with your laser gun, and earn a place on the score board.
 
-[▶ Gameplay Video](https://youtu.be/et_JY0fGsjM?si=XUhrBN8EL4GLD-Fu) · [📄 Project Report](https://drive.google.com/file/d/10gkjWC-kxk-pxIzLS7BK-Ucsta4P6GHL/view?usp=drivesdk)
-
 ## Features
 - **5 levels, 14 stages** with sub-levels, moving platforms and sliding stairs
 - **Laser gun combat** against fireball-breathing dragons, with impact effects
